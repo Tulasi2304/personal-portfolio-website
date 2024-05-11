@@ -22,8 +22,8 @@ h2{
 h3{
     font-family: 'Raleway', sans-serif;
     color: #3B0404;
-    font-weight: bolder;
-    font-size: 1.5rem;
+    font-weight: 800;
+    font-size: 2rem;
 }
 
 a{
@@ -59,6 +59,7 @@ hr{
 p{
     font-weight: 600;
     margin-bottom: 0;
+    font-size: 1.5rem;
 }
 
 .web{
@@ -108,11 +109,9 @@ p{
     margin-left: 30px;
 }
 
-/* .middle-container{
-    
-} */
-
 .contact-me{
+    width: 50%;
+    margin: auto;
     margin-bottom: 60px;
 }
 
